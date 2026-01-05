@@ -1,18 +1,28 @@
-## Getting Started
+# Práctica: Estructuras No Lineales - 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Autor
+- Nombre: [Xavier Fajardo]
+- Carrera/Curso: [Estrucutra de Datos]
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+##  Nombre de la práctica - Fecha
+- Práctica: [Práctica de Árboles – Implementación Integers]
+- Fecha: [2026-01-05]
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Descripción
+Implemente los metodos preorden, posorden, inorden ademas del metodo int size bajar la complejidad del size a O(1)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Evidencias
+### Captura 1
+Inserta aquí la captura del código o de la ejecución.
+- Archivo: `assets/captura-1.png`!
+![alt text](<Captura de pantalla 2026-01-05 124808.png>)
+Lo que se muestra hay son los recorridos que se vieron en clase pero ahora se implemento en codigo y el tamaño del arbol que nos muestra el metodo size
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Captura 2 
+Inserta aquí una segunda captura si aplica.
+- Archivo: `assets/captura-2.png`
+ ![alt text](image.png)
+ ![alt text](image-1.png)
+ 
+- Se optimizó el tamaño del árbol usando un contador que se actualiza al insertar nodos, evitando una mayor complejidad al aumentar en espacial
