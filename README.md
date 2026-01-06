@@ -26,3 +26,26 @@ Inserta aquí una segunda captura si aplica.
  ![alt text](image-1.png)
  
 - Se optimizó el tamaño del árbol usando un contador que se actualiza al insertar nodos, evitando una mayor complejidad al aumentar en espacial
+# Práctica: Estructuras No Lineales - 
+
+## Autor
+- Nombre: [Xavier Fajardo]
+- Carrera/Curso: [Estrucutura de Datos]
+
+
+##  Nombre de la práctica - Fecha
+- Práctica: [Práctica de Árboles – Implementación Genéricos uso de interfaces Comparable]
+- Fecha: [2026-01-06]
+
+## Descripción
+Se tranajo en un arbol binario con clases genricas donde usamos una persona donde le implementamos un comparador y ademas inclimos un busuqeda binaria para encontrar una persona de edad 23 
+
+## Evidencias
+### Captura 1
+Inserta aquí la captura del código o de la ejecución.
+- Archivo: ![alt text](image-3.png)
+
+
+### Captura 2 
+Inserta aquí una segunda captura si aplica.
+- Archivo: ![alt text](image-4.png)
