@@ -4,7 +4,7 @@ import trees.Tree;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Estudiante: Xavier Fajardo");
+        
         //runIntTree();
         runTree();
     }
