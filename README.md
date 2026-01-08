@@ -53,12 +53,14 @@ Inserta aquí una segunda captura si aplica.
 # Práctica: Estructuras No Lineales - 
 
 ## Autor
+- Link commit: https://github.com/Xavier369-ui/icc-est-u2-estructuraDatos-NoLineales/commit/740b8517b957559e28928d800eb93ab6e40e548f
 - Nombre: [Xavier Fajardo]
 - Carrera/Curso: [Estructura de Datos]
 
 
 ##  Nombre de la práctica - Fecha
 - Práctica: [Práctica de Graphs]
+
 - Fecha: [2026-01-08]
 
 ## Descripción
