@@ -1,6 +1,6 @@
 package nodes;
 
-
+import java.util.List;
 
 public class Node<T> {
 
@@ -13,6 +13,10 @@ public class Node<T> {
         this.left = null;
         this.right = null;
     }
+
+    private List<Node<T>> conocidos;
+
+
     public T getValue() {
         return value;
     }
@@ -31,5 +35,10 @@ public class Node<T> {
 
     public void setRight(Node<T> right) {
         this.right = right;
+    }
+
+    @Override
+    public String toString() {
+        return "N[" + value + "]";
     }
 }

@@ -49,3 +49,26 @@ Inserta aquí la captura del código o de la ejecución.
 ### Captura 2 
 Inserta aquí una segunda captura si aplica.
 - Archivo: ![alt text](image-4.png)
+
+# Práctica: Estructuras No Lineales - 
+
+## Autor
+- Nombre: [Xavier Fajardo]
+- Carrera/Curso: [Estructura de Datos]
+
+
+##  Nombre de la práctica - Fecha
+- Práctica: [Práctica de Graphs]
+- Fecha: [2026-01-08]
+
+## Descripción
+Implementacion de Grafos
+
+## Evidencias
+### Captura 1
+Inserta aquí la captura del código o de la ejecución.
+- Archivo: ![alt text](image-5.png)
+
+### Captura 2 
+Inserta aquí una segunda captura si aplica.
+- Archivo: ![alt text](image-6.png)
