@@ -47,6 +47,11 @@ public class Graph<T> {
         addEdge(n1, n2);
     }
 
+    public void addConocido2(Node<T> n1, Node<T> n2) {
+        addEdge(n1, n2);
+    }
+
+
     public void printGraph() {
         for(Map.Entry<Node<T>, List<Node<T>>> entry : mapa.entrySet()) {
             System.out.print(entry.getKey() + " -> ");
